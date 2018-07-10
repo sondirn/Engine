@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OutMantle.Shared", "OutMantle.Shared\OutMantle.Shared.shproj", "{A476F5C6-DF33-4464-8826-9C87F4769981}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		OutMantle.Shared\OutMantle.Shared.projitems*{a476f5c6-df33-4464-8826-9c87f4769981}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEB98AC-FAC0-430A-8AC8-C20A9FB4303E}
+	EndGlobalSection
+EndGlobal
